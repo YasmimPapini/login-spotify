@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Login{
+    background: #121212;
+    border-radius: 30px;
+    padding: 40px;
+    
+}
+
+h2{
+    margin-bottom: 20px;
+}
+.inputbox{
+    margin: 15px;
+}
+.inputbox input{
+    
+}
